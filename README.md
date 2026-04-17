@@ -1,4 +1,5 @@
-# GAS-EXCHANGER-COLUMN
+# CO2 ABSORPTION COLUMN
+
 this is a short project that explains the absorption of carbon dioxide in an amine solution using a plate absorption column
 # CO2 Absorption in Amine-Based Tray Column
 
